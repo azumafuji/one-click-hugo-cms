@@ -1,3 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Homepage"
+title = "Kim Sellis Yoga"
+theme = "cocoa-eh"
+builddrafts = true
+canonifyurls = true
+copyright = "Copyright © 2018-2019 Kim Sellis"
